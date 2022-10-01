@@ -1,0 +1,13 @@
+.border-radius-bottom{
+    border-radius: 0 0 2rem 2rem;
+}
+.z-10{
+    z-index: 10;
+}
+.w-cod-image{
+    width: 60%;
+    height: 25rem;
+}
+.bg-start-section{
+    background-color: rgb(0, 0, 61);
+}
